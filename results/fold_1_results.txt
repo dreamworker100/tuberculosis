@@ -1,0 +1,1 @@
+fold_1 accuracy=0.9230769230769231 precision_score=1.0 recall_score=0.8181818181818182 f1_score=0.9 kappa_score=0.8385093167701864 roc_auc=0.9757575757575758
