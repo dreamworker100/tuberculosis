@@ -1,0 +1,14 @@
+torch>=1.10
+torchvision>=0.11
+timm>=0.6.5
+opencv-python
+openslide-python
+pillow
+numpy
+tqdm
+scikit-learn
+albumentations
+shapely
+matplotlib
+pandas
+imbalanced-learn
